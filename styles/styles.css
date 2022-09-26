@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+    background-color: beige;
+}
+header{
+    background-color: seagreen;
+    border-bottom: 3px solid;
+}
+.un{
+    display: flex;
+    align-items: center;
+    color: white;
+}
+.btm{
+    font-size: 35px;
+}
+.un>div{
+    margin: 20px;
+}
+
+.droite{
+    margin-left: auto!important;
+}
