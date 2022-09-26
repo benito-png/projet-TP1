@@ -21,3 +21,9 @@ header{
 .droite{
     margin-left: auto!important;
 }
+img{
+    width: 400px;
+}
+section{
+    display: flex;
+}
